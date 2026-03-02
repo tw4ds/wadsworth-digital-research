@@ -1,2 +1,2 @@
 # wadsworth-digital-research
-Repo for sharing various different findings or files for public consumption
+AI research, methodologies, and technical write-ups from Wadsworth Digital
